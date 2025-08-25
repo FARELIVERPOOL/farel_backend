@@ -2,3 +2,4 @@ Farel Backend 2026
 -Saya mau konsisten belajar backend 1 hari minimal 1 jam
 -perbanyak praktek
 -harus menguasai crud
+-Bekerja di perusahaan ternama AAMIIN
