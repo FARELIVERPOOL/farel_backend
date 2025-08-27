@@ -1,0 +1,4 @@
+Halo Farel, saya Saputra dari Purbalingga 
+Resolusi saya :
+-Membuat projek dengan Laravel 12
+-Bekerja di Star Up
