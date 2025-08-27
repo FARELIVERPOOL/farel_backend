@@ -1,5 +1,8 @@
 Membuat Projek dengan PHP
 Projek Warung
 *laravel + taildwnd
+*vue
 Projek PPDB
+*laravel + bootstrap
 Projek ChatBot
+Projek Phyton
