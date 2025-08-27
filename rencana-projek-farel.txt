@@ -5,6 +5,7 @@ Projek Warung
 *Ajax
 Projek PPDB
 *laravel + bootstrap
+*django + react
 Projek PPDB
 Projek ChatBot
 Projek Phyton
